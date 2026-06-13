@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Google",
+    "domain": "google.com",
+    "year_founded": 1998,
+    "industry": "Internet",
+    "employees_count": 219238,
+    "locality": "Mountain View",
+    "country": "United States",
+    "linkedin_url": "linkedin.com/company/google"
+  },
+  {
+    "name": "Globo.Com",
+    "domain": "globo.com",
+    "year_founded": 2000,
+    "industry": "Internet",
+    "employees_count": 1175,
+    "locality": "Rio De Janeiro",
+    "country": "Brazil",
+    "linkedin_url": "linkedin.com/company/globo-com"
+  },
+  {
+    "name": "Crea-Rs",
+    "domain": "teste.com.br",
+    "year_founded": 1934,
+    "industry": "Law enforcement",
+    "employees_count": 191,
+    "locality": null,
+    "country": "Brazil",
+    "linkedin_url": "linkedin.com/company/crea-rs"
+  }
+]
